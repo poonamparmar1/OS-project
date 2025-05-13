@@ -1,7 +1,7 @@
 # OS
 Advanced Disk Scheduling Simulator
 
-Live Demo: [Try It Here](https://rai-kriti.github.io/OS/)
+Live Demo: [Try It Here](http://127.0.0.1:5502/index.html)
 
 Overview
  The Advanced Disk Scheduling Simulator is a web-based tool designed to visualize and compare different disk scheduling algorithms. It helps users understand how 
