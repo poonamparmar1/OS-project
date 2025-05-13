@@ -34,5 +34,6 @@ Overview
  Backend integration for persistent data storage and analytics
 
 Contributors
-👨‍💻 Kriti, Nitesh, Pranav
+👨‍💻 Poonam Parmar, pradeep
+
 
